@@ -26,7 +26,7 @@
     "hub"
   ],
   "dependencies": {
-    "axios": "0.16.2",
+    "axios": "0.19.2",
     "body": "5.1.0",
     "boom": "5.1.0",
     "es6-promisify": "5.0.0",
