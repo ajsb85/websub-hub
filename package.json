@@ -21,7 +21,7 @@
     "globals": []
   },
   "devDependencies": {
-    "axios": "0.16.2",
+    "axios": "0.19.2",
     "axios-mock-adapter": "1.8.1",
     "body-parser": "1.17.2",
     "code": "4.1.0",
