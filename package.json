@@ -21,14 +21,14 @@
     "globals": []
   },
   "devDependencies": {
-    "axios": "0.16.2",
+    "axios": "0.30.2",
     "axios-mock-adapter": "1.8.1",
-    "body-parser": "1.17.2",
+    "body-parser": "1.20.3",
     "code": "4.1.0",
     "coveralls": "2.13.1",
-    "express": "4.15.3",
+    "express": "4.22.0",
     "istanbul": "0.4.5",
-    "jsonwebtoken": "7.4.1",
+    "jsonwebtoken": "9.0.0",
     "lerna": "2.0.0-rc.5",
     "mocha": "3.4.2",
     "mongo-in-memory": "0.0.5",
@@ -36,6 +36,6 @@
     "sinon": "2.3.4",
     "snazzy": "7.0.0",
     "standard": "10.0.2",
-    "ws": "3.0.0"
+    "ws": "5.2.4"
   }
 }
